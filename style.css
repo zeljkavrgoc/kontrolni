@@ -1,0 +1,24 @@
+body{
+    background-color: #fbf6f0;
+}
+.slika1{
+    border-radius:20% ;
+    float: left;
+}
+.slika2{
+    border-radius:20% ;
+    float: left;
+
+}
+.slika3{ 
+     border-radius:20% ;
+    float: left;
+
+}
+.recenica{
+   color: #16697a;
+   font-family: : Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+#naslov
